@@ -60,7 +60,7 @@ AllStarTeamManagement/
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/AllStarTeamManagement.git
+   git clone https://github.com/ShubhamKashyap45/AllStarTeamManagement
    ```
 2. Open the project in an IDE (Eclipse, IntelliJ IDEA, or VS Code).
 3. Compile the project:
